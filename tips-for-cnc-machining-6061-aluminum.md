@@ -7,6 +7,9 @@
 6061 is the alloy most shops cut every single day, and that's exactly why so many shops stop thinking about it. It machines easily, it tolerates imperfect setups, and it rarely punishes you the way titanium or Inconel does. But "easy to machine" and "impossible to mess up" are not the same thing.
 
 After thousands of 6061 parts through our machines — brackets, housings, fixtures, aerospace fittings — here are the tips that consistently separate clean first articles from scraped stock. Some of these seem obvious until you watch them get ignored.
+<img width="450" height="600" alt="CNC Machining 6061 Aluminum" src="https://github.com/user-attachments/assets/c7978bc6-9464-46d9-9cd5-c016928b8ece" />
+
+
 
 ## 1. Fix Your Workholding Before You Fix Your Feeds
 
